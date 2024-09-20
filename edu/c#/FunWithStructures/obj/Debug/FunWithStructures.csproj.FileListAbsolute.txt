@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 4\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+C:\MyProg\VS\projects\Apress\head 4\FunWithStructures\bin\Debug\FunWithStructures.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithStructures\bin\Debug\FunWithStructures.pdb
+C:\MyProg\VS\projects\Apress\head 4\FunWithStructures\obj\Debug\FunWithStructures.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithStructures\obj\Debug\FunWithStructures.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithStructures\obj\Debug\FunWithStructures.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithStructures\obj\Debug\FunWithStructures.pdb

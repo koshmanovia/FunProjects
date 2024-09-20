@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 9\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 9\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 9\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
+C:\Users\k0shm\source\repos\apress\head 9\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
+C:\Users\k0shm\source\repos\apress\head 9\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
+C:\Users\k0shm\source\repos\apress\head 9\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
+C:\Users\k0shm\source\repos\apress\head 9\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb

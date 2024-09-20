@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\DisplayMessage\bin\Debug\DisplayMessage.exe.config
+C:\MyProg\VS\projects\Apress\head 3\DisplayMessage\bin\Debug\DisplayMessage.exe
+C:\MyProg\VS\projects\Apress\head 3\DisplayMessage\bin\Debug\DisplayMessage.pdb
+C:\MyProg\VS\projects\Apress\head 3\DisplayMessage\obj\Debug\DisplayMessage.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\DisplayMessage\obj\Debug\DisplayMessage.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\DisplayMessage\obj\Debug\DisplayMessage.exe
+C:\MyProg\VS\projects\Apress\head 3\DisplayMessage\obj\Debug\DisplayMessage.pdb

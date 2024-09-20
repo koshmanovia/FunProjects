@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\bin\Debug\Complex_numbers_HW.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\bin\Debug\Complex_numbers_HW.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\bin\Debug\Complex_numbers_HW.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\obj\Debug\Complex_numbers_HW.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\obj\Debug\Complex_numbers_HW.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\obj\Debug\Complex_numbers_HW.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\obj\Debug\Complex_numbers_HW.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Complex_numbers_HW\Complex_numbers_HW\obj\Debug\Complex_numbers_HW.pdb

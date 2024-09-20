@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ShildtC#\StatementLambdaDemo\bin\Debug\StatementLambdaDemo.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\StatementLambdaDemo\bin\Debug\StatementLambdaDemo.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\StatementLambdaDemo\bin\Debug\StatementLambdaDemo.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\StatementLambdaDemo\obj\Debug\StatementLambdaDemo.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\StatementLambdaDemo\obj\Debug\StatementLambdaDemo.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\StatementLambdaDemo\obj\Debug\StatementLambdaDemo.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\StatementLambdaDemo\obj\Debug\StatementLambdaDemo.pdb

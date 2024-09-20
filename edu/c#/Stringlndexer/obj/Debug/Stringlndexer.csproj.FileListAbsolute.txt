@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Stringlndexer\bin\Debug\Stringlndexer.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Stringlndexer\bin\Debug\Stringlndexer.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Stringlndexer\bin\Debug\Stringlndexer.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Stringlndexer\obj\Debug\Stringlndexer.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Stringlndexer\obj\Debug\Stringlndexer.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Stringlndexer\obj\Debug\Stringlndexer.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Stringlndexer\obj\Debug\Stringlndexer.pdb

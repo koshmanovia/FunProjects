@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\bin\Debug\Guess_num.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\bin\Debug\Guess_num.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\bin\Debug\Guess_num.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\obj\Debug\Guess_num.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\obj\Debug\Guess_num.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\obj\Debug\Guess_num.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\obj\Debug\Guess_num.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Guess_num\Guess_num\obj\Debug\Guess_num.pdb

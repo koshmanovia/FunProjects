@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 4\FunForArrays\bin\Debug\FunForArrays.exe.config
+C:\MyProg\VS\projects\Apress\head 4\FunForArrays\bin\Debug\FunForArrays.exe
+C:\MyProg\VS\projects\Apress\head 4\FunForArrays\bin\Debug\FunForArrays.pdb
+C:\MyProg\VS\projects\Apress\head 4\FunForArrays\obj\Debug\FunForArrays.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 4\FunForArrays\obj\Debug\FunForArrays.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 4\FunForArrays\obj\Debug\FunForArrays.exe
+C:\MyProg\VS\projects\Apress\head 4\FunForArrays\obj\Debug\FunForArrays.pdb

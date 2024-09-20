@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverCollectons\LinqOverCollectons\bin\Debug\LinqOverCollectons.exe.config
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverCollectons\LinqOverCollectons\bin\Debug\LinqOverCollectons.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverCollectons\LinqOverCollectons\bin\Debug\LinqOverCollectons.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverCollectons\LinqOverCollectons\obj\Debug\LinqOverCollectons.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverCollectons\LinqOverCollectons\obj\Debug\LinqOverCollectons.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverCollectons\LinqOverCollectons\obj\Debug\LinqOverCollectons.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverCollectons\LinqOverCollectons\obj\Debug\LinqOverCollectons.pdb

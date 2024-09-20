@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\NewingDataTypes\bin\Debug\NewingDataTypes.exe.config
+C:\MyProg\VS\projects\Apress\head 3\NewingDataTypes\bin\Debug\NewingDataTypes.exe
+C:\MyProg\VS\projects\Apress\head 3\NewingDataTypes\bin\Debug\NewingDataTypes.pdb
+C:\MyProg\VS\projects\Apress\head 3\NewingDataTypes\obj\Debug\NewingDataTypes.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\NewingDataTypes\obj\Debug\NewingDataTypes.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\NewingDataTypes\obj\Debug\NewingDataTypes.exe
+C:\MyProg\VS\projects\Apress\head 3\NewingDataTypes\obj\Debug\NewingDataTypes.pdb

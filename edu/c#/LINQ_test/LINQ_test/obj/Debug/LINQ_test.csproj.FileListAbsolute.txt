@@ -1,0 +1,9 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\bin\Debug\top100ChessGamer.cvs
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\bin\Debug\LINQ_test.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\bin\Debug\LINQ_test.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\bin\Debug\LINQ_test.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\obj\Debug\LINQ_test.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\obj\Debug\LINQ_test.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\obj\Debug\LINQ_test.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\obj\Debug\LINQ_test.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\LINQ_test\LINQ_test\obj\Debug\LINQ_test.pdb

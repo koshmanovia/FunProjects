@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 8\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 8\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 8\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.exe.config
+C:\Users\k0shm\source\repos\apress\head 8\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.exe
+C:\Users\k0shm\source\repos\apress\head 8\MIInterfaceHierarchy\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.pdb
+C:\Users\k0shm\source\repos\apress\head 8\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.exe
+C:\Users\k0shm\source\repos\apress\head 8\MIInterfaceHierarchy\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.pdb

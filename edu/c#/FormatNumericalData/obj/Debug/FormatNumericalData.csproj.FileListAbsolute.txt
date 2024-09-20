@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\FormatNumericalData\bin\Debug\FormatNumericalData.exe.config
+C:\MyProg\VS\projects\Apress\head 3\FormatNumericalData\bin\Debug\FormatNumericalData.exe
+C:\MyProg\VS\projects\Apress\head 3\FormatNumericalData\bin\Debug\FormatNumericalData.pdb
+C:\MyProg\VS\projects\Apress\head 3\FormatNumericalData\obj\Debug\FormatNumericalData.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\FormatNumericalData\obj\Debug\FormatNumericalData.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\FormatNumericalData\obj\Debug\FormatNumericalData.exe
+C:\MyProg\VS\projects\Apress\head 3\FormatNumericalData\obj\Debug\FormatNumericalData.pdb

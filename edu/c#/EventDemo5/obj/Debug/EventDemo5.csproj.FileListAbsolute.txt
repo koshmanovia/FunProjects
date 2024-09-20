@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo5\bin\Debug\EventDemo5.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo5\bin\Debug\EventDemo5.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo5\bin\Debug\EventDemo5.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo5\obj\Debug\EventDemo5.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo5\obj\Debug\EventDemo5.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo5\obj\Debug\EventDemo5.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo5\obj\Debug\EventDemo5.pdb

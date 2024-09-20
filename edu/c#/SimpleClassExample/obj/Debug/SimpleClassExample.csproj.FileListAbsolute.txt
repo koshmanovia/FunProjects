@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 5\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\MyProg\VS\projects\Apress\head 5\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\MyProg\VS\projects\Apress\head 5\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\MyProg\VS\projects\Apress\head 5\SimpleClassExample\obj\Debug\SimpleClassExample.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 5\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 5\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\MyProg\VS\projects\Apress\head 5\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

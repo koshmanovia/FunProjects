@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+C:\MyProg\VS\projects\Apress\head 5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+C:\MyProg\VS\projects\Apress\head 5\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+C:\MyProg\VS\projects\Apress\head 5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+C:\MyProg\VS\projects\Apress\head 5\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

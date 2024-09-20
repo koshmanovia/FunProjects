@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\FunWithString\obj\Debug\FunWithString.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\FunWithString\obj\Debug\FunWithString.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\FunWithString\bin\Debug\FunWithString.exe.config
+C:\MyProg\VS\projects\Apress\head 3\FunWithString\bin\Debug\FunWithString.exe
+C:\MyProg\VS\projects\Apress\head 3\FunWithString\bin\Debug\FunWithString.pdb
+C:\MyProg\VS\projects\Apress\head 3\FunWithString\obj\Debug\FunWithString.exe
+C:\MyProg\VS\projects\Apress\head 3\FunWithString\obj\Debug\FunWithString.pdb

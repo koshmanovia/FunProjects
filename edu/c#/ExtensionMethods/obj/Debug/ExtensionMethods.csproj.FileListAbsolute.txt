@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 11\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 11\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 11\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

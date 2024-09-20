@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\TypeFunctionality\bin\Debug\TypeFunctionality.exe.config
+C:\MyProg\VS\projects\Apress\head 3\TypeFunctionality\bin\Debug\TypeFunctionality.exe
+C:\MyProg\VS\projects\Apress\head 3\TypeFunctionality\bin\Debug\TypeFunctionality.pdb
+C:\MyProg\VS\projects\Apress\head 3\TypeFunctionality\obj\Debug\TypeFunctionality.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\TypeFunctionality\obj\Debug\TypeFunctionality.exe
+C:\MyProg\VS\projects\Apress\head 3\TypeFunctionality\obj\Debug\TypeFunctionality.pdb
+C:\MyProg\VS\projects\Apress\head 3\TypeFunctionality\obj\Debug\TypeFunctionality.csprojAssemblyReference.cache

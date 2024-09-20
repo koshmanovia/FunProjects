@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 10\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+C:\Users\k0shm\source\repos\apress\head 10\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+C:\Users\k0shm\source\repos\apress\head 10\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+C:\Users\k0shm\source\repos\apress\head 10\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 10\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 10\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+C:\Users\k0shm\source\repos\apress\head 10\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

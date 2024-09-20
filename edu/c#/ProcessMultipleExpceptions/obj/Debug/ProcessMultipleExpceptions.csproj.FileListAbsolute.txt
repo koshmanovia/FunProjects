@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 7\ProcessMultipleExpceptions\obj\Debug\ProcessMultipleExpceptions.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 7\ProcessMultipleExpceptions\obj\Debug\ProcessMultipleExpceptions.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 7\ProcessMultipleExpceptions\bin\Debug\ProcessMultipleExpceptions.exe.config
+C:\MyProg\VS\projects\Apress\head 7\ProcessMultipleExpceptions\bin\Debug\ProcessMultipleExpceptions.exe
+C:\MyProg\VS\projects\Apress\head 7\ProcessMultipleExpceptions\bin\Debug\ProcessMultipleExpceptions.pdb
+C:\MyProg\VS\projects\Apress\head 7\ProcessMultipleExpceptions\obj\Debug\ProcessMultipleExpceptions.exe
+C:\MyProg\VS\projects\Apress\head 7\ProcessMultipleExpceptions\obj\Debug\ProcessMultipleExpceptions.pdb

@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 4\RefTypeValtypeParams\RefTypeValtypeParams\bin\Debug\RefTypeValtypeParams.exe.config
+C:\Users\k0shm\source\repos\apress\head 4\RefTypeValtypeParams\RefTypeValtypeParams\bin\Debug\RefTypeValtypeParams.exe
+C:\Users\k0shm\source\repos\apress\head 4\RefTypeValtypeParams\RefTypeValtypeParams\bin\Debug\RefTypeValtypeParams.pdb
+C:\Users\k0shm\source\repos\apress\head 4\RefTypeValtypeParams\RefTypeValtypeParams\obj\Debug\RefTypeValtypeParams.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 4\RefTypeValtypeParams\RefTypeValtypeParams\obj\Debug\RefTypeValtypeParams.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 4\RefTypeValtypeParams\RefTypeValtypeParams\obj\Debug\RefTypeValtypeParams.exe
+C:\Users\k0shm\source\repos\apress\head 4\RefTypeValtypeParams\RefTypeValtypeParams\obj\Debug\RefTypeValtypeParams.pdb

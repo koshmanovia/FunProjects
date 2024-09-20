@@ -1,0 +1,9 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\bin\Debug\CarLibrary.dll
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\bin\Debug\CarLibrary.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 14\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 4\FunSystemArray\obj\Debug\FunSystemArray.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 4\FunSystemArray\obj\Debug\FunSystemArray.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 4\FunSystemArray\bin\Debug\FunSystemArray.exe.config
+C:\MyProg\VS\projects\Apress\head 4\FunSystemArray\bin\Debug\FunSystemArray.exe
+C:\MyProg\VS\projects\Apress\head 4\FunSystemArray\bin\Debug\FunSystemArray.pdb
+C:\MyProg\VS\projects\Apress\head 4\FunSystemArray\obj\Debug\FunSystemArray.exe
+C:\MyProg\VS\projects\Apress\head 4\FunSystemArray\obj\Debug\FunSystemArray.pdb

@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\bin\Debug\Profile.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\bin\Debug\Profile.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\bin\Debug\Profile.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\obj\Debug\Profile.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\obj\Debug\Profile.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\obj\Debug\Profile.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Profile\Profile\obj\Debug\Profile.csproj.AssemblyReference.cache

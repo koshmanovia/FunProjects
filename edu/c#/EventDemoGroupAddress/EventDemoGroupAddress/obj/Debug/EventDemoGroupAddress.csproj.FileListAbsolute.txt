@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\ShildtC#\EventDemoGroupAddress\EventDemoGroupAddress\bin\Debug\EventDemoGroupAddress.exe.config
+C:\Users\k0shm\source\repos\apress\ShildtC#\EventDemoGroupAddress\EventDemoGroupAddress\bin\Debug\EventDemoGroupAddress.exe
+C:\Users\k0shm\source\repos\apress\ShildtC#\EventDemoGroupAddress\EventDemoGroupAddress\bin\Debug\EventDemoGroupAddress.pdb
+C:\Users\k0shm\source\repos\apress\ShildtC#\EventDemoGroupAddress\EventDemoGroupAddress\obj\Debug\EventDemoGroupAddress.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ShildtC#\EventDemoGroupAddress\EventDemoGroupAddress\obj\Debug\EventDemoGroupAddress.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ShildtC#\EventDemoGroupAddress\EventDemoGroupAddress\obj\Debug\EventDemoGroupAddress.exe
+C:\Users\k0shm\source\repos\apress\ShildtC#\EventDemoGroupAddress\EventDemoGroupAddress\obj\Debug\EventDemoGroupAddress.pdb

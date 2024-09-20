@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Simple Indexer\bin\Debug\Simple Indexer.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Simple Indexer\bin\Debug\Simple Indexer.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Simple Indexer\bin\Debug\Simple Indexer.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Simple Indexer\obj\Debug\Simple Indexer.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Simple Indexer\obj\Debug\Simple Indexer.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Simple Indexer\obj\Debug\Simple Indexer.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\Simple Indexer\obj\Debug\Simple Indexer.pdb

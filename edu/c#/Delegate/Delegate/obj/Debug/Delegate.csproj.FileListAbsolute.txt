@@ -1,0 +1,14 @@
+C:\Users\k0shm\source\repos\apress\ShildtC#\Delegate\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\k0shm\source\repos\apress\ShildtC#\Delegate\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Users\k0shm\source\repos\apress\ShildtC#\Delegate\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Users\k0shm\source\repos\apress\ShildtC#\Delegate\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ShildtC#\Delegate\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ShildtC#\Delegate\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Users\k0shm\source\repos\apress\ShildtC#\Delegate\Delegate\Delegate\obj\Debug\Delegate.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\Delegate\Delegate\obj\Debug\Delegate.pdb

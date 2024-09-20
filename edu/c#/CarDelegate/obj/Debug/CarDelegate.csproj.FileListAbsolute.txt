@@ -1,0 +1,14 @@
+C:\MyProg\VS\projects\Apress\head 10\CarDelegate\obj\Debug\CarDelegate.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 10\CarDelegate\obj\Debug\CarDelegate.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 10\CarDelegate\bin\Debug\CarDelegate.exe.config
+C:\MyProg\VS\projects\Apress\head 10\CarDelegate\bin\Debug\CarDelegate.exe
+C:\MyProg\VS\projects\Apress\head 10\CarDelegate\bin\Debug\CarDelegate.pdb
+C:\MyProg\VS\projects\Apress\head 10\CarDelegate\obj\Debug\CarDelegate.exe
+C:\MyProg\VS\projects\Apress\head 10\CarDelegate\obj\Debug\CarDelegate.pdb
+C:\Users\k0shm\source\repos\apress\head 10\CarDelegate\bin\Debug\CarDelegate.exe.config
+C:\Users\k0shm\source\repos\apress\head 10\CarDelegate\bin\Debug\CarDelegate.exe
+C:\Users\k0shm\source\repos\apress\head 10\CarDelegate\bin\Debug\CarDelegate.pdb
+C:\Users\k0shm\source\repos\apress\head 10\CarDelegate\obj\Debug\CarDelegate.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 10\CarDelegate\obj\Debug\CarDelegate.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 10\CarDelegate\obj\Debug\CarDelegate.exe
+C:\Users\k0shm\source\repos\apress\head 10\CarDelegate\obj\Debug\CarDelegate.pdb

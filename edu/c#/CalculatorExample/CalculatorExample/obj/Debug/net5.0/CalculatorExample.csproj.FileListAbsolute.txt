@@ -1,0 +1,16 @@
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\bin\Debug\net5.0\CalculatorExample.exe
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\bin\Debug\net5.0\CalculatorExample.deps.json
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\bin\Debug\net5.0\CalculatorExample.runtimeconfig.json
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\bin\Debug\net5.0\CalculatorExample.runtimeconfig.dev.json
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\bin\Debug\net5.0\CalculatorExample.dll
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\bin\Debug\net5.0\ref\CalculatorExample.dll
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\bin\Debug\net5.0\CalculatorExample.pdb
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.AssemblyInfoInputs.cache
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.AssemblyInfo.cs
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.dll
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\ref\CalculatorExample.dll
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.pdb
+C:\MyProg\VS\projects\Apress\Глава 1\CalculatorExample\CalculatorExample\obj\Debug\net5.0\CalculatorExample.genruntimeconfig.cache

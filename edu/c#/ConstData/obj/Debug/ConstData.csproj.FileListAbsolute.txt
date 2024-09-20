@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 5\ConstData\bin\Debug\ConstData.exe.config
+C:\MyProg\VS\projects\Apress\head 5\ConstData\bin\Debug\ConstData.exe
+C:\MyProg\VS\projects\Apress\head 5\ConstData\bin\Debug\ConstData.pdb
+C:\MyProg\VS\projects\Apress\head 5\ConstData\obj\Debug\ConstData.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 5\ConstData\obj\Debug\ConstData.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 5\ConstData\obj\Debug\ConstData.exe
+C:\MyProg\VS\projects\Apress\head 5\ConstData\obj\Debug\ConstData.pdb

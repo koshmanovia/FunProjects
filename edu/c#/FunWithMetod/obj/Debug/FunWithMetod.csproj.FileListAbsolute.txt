@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 4\FunWithMetod\bin\Debug\FunWithMetod.exe.config
+C:\MyProg\VS\projects\Apress\head 4\FunWithMetod\bin\Debug\FunWithMetod.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithMetod\bin\Debug\FunWithMetod.pdb
+C:\MyProg\VS\projects\Apress\head 4\FunWithMetod\obj\Debug\FunWithMetod.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithMetod\obj\Debug\FunWithMetod.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithMetod\obj\Debug\FunWithMetod.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithMetod\obj\Debug\FunWithMetod.pdb

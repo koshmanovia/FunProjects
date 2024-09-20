@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe.config
+C:\MyProg\VS\projects\Apress\head 3\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe
+C:\MyProg\VS\projects\Apress\head 3\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.pdb
+C:\MyProg\VS\projects\Apress\head 3\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.exe
+C:\MyProg\VS\projects\Apress\head 3\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.pdb

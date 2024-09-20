@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 11\OverloadedOps\bin\Debug\OverloadedOps.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 11\OverloadedOps\bin\Debug\OverloadedOps.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\OverloadedOps\bin\Debug\OverloadedOps.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 11\OverloadedOps\obj\Debug\OverloadedOps.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\OverloadedOps\obj\Debug\OverloadedOps.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\OverloadedOps\obj\Debug\OverloadedOps.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\OverloadedOps\obj\Debug\OverloadedOps.pdb

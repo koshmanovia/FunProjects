@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 10\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\MyProg\VS\projects\Apress\head 10\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\MyProg\VS\projects\Apress\head 10\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\MyProg\VS\projects\Apress\head 10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 10\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 10\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\MyProg\VS\projects\Apress\head 10\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

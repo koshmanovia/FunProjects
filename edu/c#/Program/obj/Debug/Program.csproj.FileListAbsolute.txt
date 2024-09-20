@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\Program\bin\Debug\Program.exe.config
+C:\MyProg\VS\projects\Apress\head 3\Program\bin\Debug\Program.exe
+C:\MyProg\VS\projects\Apress\head 3\Program\bin\Debug\Program.pdb
+C:\MyProg\VS\projects\Apress\head 3\Program\obj\Debug\Program.exe
+C:\MyProg\VS\projects\Apress\head 3\Program\obj\Debug\Program.pdb

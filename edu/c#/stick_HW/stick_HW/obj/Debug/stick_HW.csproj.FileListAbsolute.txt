@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\bin\Debug\stick_HW.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\bin\Debug\stick_HW.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\bin\Debug\stick_HW.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\obj\Debug\stick_HW.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\obj\Debug\stick_HW.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\obj\Debug\stick_HW.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\obj\Debug\stick_HW.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\stick_HW\stick_HW\obj\Debug\stick_HW.pdb

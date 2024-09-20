@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb

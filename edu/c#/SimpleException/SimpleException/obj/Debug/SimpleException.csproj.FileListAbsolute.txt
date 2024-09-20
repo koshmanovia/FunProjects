@@ -1,0 +1,14 @@
+C:\Users\k0shm\source\repos\apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 7\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\Users\k0shm\source\repos\apress\head 7\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\Users\k0shm\source\repos\apress\head 7\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\Users\k0shm\source\repos\apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\Users\k0shm\source\repos\apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
+C:\MyProg\VS\projects\Apress\head 7\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\MyProg\VS\projects\Apress\head 7\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\MyProg\VS\projects\Apress\head 7\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\MyProg\VS\projects\Apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\MyProg\VS\projects\Apress\head 7\SimpleException\SimpleException\obj\Debug\SimpleException.pdb

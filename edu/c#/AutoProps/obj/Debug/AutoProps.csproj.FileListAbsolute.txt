@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 5\AutoProps\bin\Debug\AutoProps.exe.config
+C:\MyProg\VS\projects\Apress\head 5\AutoProps\bin\Debug\AutoProps.exe
+C:\MyProg\VS\projects\Apress\head 5\AutoProps\bin\Debug\AutoProps.pdb
+C:\MyProg\VS\projects\Apress\head 5\AutoProps\obj\Debug\AutoProps.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 5\AutoProps\obj\Debug\AutoProps.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 5\AutoProps\obj\Debug\AutoProps.exe
+C:\MyProg\VS\projects\Apress\head 5\AutoProps\obj\Debug\AutoProps.pdb

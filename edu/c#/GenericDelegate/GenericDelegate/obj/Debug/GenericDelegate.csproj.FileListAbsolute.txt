@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 10\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\MyProg\VS\projects\Apress\head 10\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\MyProg\VS\projects\Apress\head 10\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\MyProg\VS\projects\Apress\head 10\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 10\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 10\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\MyProg\VS\projects\Apress\head 10\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

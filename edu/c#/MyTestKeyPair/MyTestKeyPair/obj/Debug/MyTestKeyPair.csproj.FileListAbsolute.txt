@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\bin\Debug\MyTestKeyPair.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\bin\Debug\MyTestKeyPair.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\bin\Debug\MyTestKeyPair.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\obj\Debug\MyTestKeyPair.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\obj\Debug\MyTestKeyPair.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\obj\Debug\MyTestKeyPair.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\obj\Debug\MyTestKeyPair.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 14\MyTestKeyPair\MyTestKeyPair\obj\Debug\MyTestKeyPair.pdb

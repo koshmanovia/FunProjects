@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 6\BasicInheritance\obj\Debug\BasicInheritance.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 6\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 6\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\MyProg\VS\projects\Apress\head 6\BasicInheritance\bin\Debug\BasicInheritance.exe
+C:\MyProg\VS\projects\Apress\head 6\BasicInheritance\bin\Debug\BasicInheritance.pdb
+C:\MyProg\VS\projects\Apress\head 6\BasicInheritance\obj\Debug\BasicInheritance.exe
+C:\MyProg\VS\projects\Apress\head 6\BasicInheritance\obj\Debug\BasicInheritance.pdb

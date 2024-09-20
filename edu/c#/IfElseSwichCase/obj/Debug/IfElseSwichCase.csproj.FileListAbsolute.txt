@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\IfElseSwichCase\bin\Debug\IfElseSwichCase.exe.config
+C:\MyProg\VS\projects\Apress\head 3\IfElseSwichCase\bin\Debug\IfElseSwichCase.exe
+C:\MyProg\VS\projects\Apress\head 3\IfElseSwichCase\bin\Debug\IfElseSwichCase.pdb
+C:\MyProg\VS\projects\Apress\head 3\IfElseSwichCase\obj\Debug\IfElseSwichCase.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\IfElseSwichCase\obj\Debug\IfElseSwichCase.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\IfElseSwichCase\obj\Debug\IfElseSwichCase.exe
+C:\MyProg\VS\projects\Apress\head 3\IfElseSwichCase\obj\Debug\IfElseSwichCase.pdb

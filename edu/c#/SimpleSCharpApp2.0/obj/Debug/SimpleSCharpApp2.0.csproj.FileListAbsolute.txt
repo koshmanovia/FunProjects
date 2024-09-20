@@ -1,0 +1,14 @@
+C:\MyProg\VS\projects\Apress\Глава 2\SimpleSCharpApp2.0\bin\Debug\SimpleSCharpApp2.0.exe.config
+C:\MyProg\VS\projects\Apress\Глава 2\SimpleSCharpApp2.0\bin\Debug\SimpleSCharpApp2.0.exe
+C:\MyProg\VS\projects\Apress\Глава 2\SimpleSCharpApp2.0\bin\Debug\SimpleSCharpApp2.0.pdb
+C:\MyProg\VS\projects\Apress\Глава 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\Глава 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\Глава 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.exe
+C:\MyProg\VS\projects\Apress\Глава 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.pdb
+C:\MyProg\VS\projects\Apress\head 2\SimpleSCharpApp2.0\bin\Debug\SimpleSCharpApp2.0.exe.config
+C:\MyProg\VS\projects\Apress\head 2\SimpleSCharpApp2.0\bin\Debug\SimpleSCharpApp2.0.exe
+C:\MyProg\VS\projects\Apress\head 2\SimpleSCharpApp2.0\bin\Debug\SimpleSCharpApp2.0.pdb
+C:\MyProg\VS\projects\Apress\head 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.exe
+C:\MyProg\VS\projects\Apress\head 2\SimpleSCharpApp2.0\obj\Debug\SimpleSCharpApp2.0.pdb

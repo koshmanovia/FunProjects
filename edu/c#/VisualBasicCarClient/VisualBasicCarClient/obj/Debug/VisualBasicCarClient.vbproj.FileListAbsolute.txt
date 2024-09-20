@@ -1,0 +1,14 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.Resources.resources
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.GenerateResource.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.xml
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.dll
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.CopyComplete
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.xml
+C:\MyProg\VS\projects\Apress\ProC#\head 14\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.pdb

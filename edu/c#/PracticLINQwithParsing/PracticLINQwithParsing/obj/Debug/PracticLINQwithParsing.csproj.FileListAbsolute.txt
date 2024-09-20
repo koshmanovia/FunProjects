@@ -1,0 +1,9 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\bin\Debug\top100ChessGamer.cvs
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\bin\Debug\PracticLINQwithParsing.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\bin\Debug\PracticLINQwithParsing.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\bin\Debug\PracticLINQwithParsing.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\obj\Debug\PracticLINQwithParsing.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\obj\Debug\PracticLINQwithParsing.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\obj\Debug\PracticLINQwithParsing.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\obj\Debug\PracticLINQwithParsing.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\PracticLINQwithParsing\PracticLINQwithParsing\obj\Debug\PracticLINQwithParsing.pdb

@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\bin\Debug\CalcMidle.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\bin\Debug\CalcMidle.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\bin\Debug\CalcMidle.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\obj\Debug\CalcMidle.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\obj\Debug\CalcMidle.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\obj\Debug\CalcMidle.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\obj\Debug\CalcMidle.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\CalcMidle\CalcMidle\obj\Debug\CalcMidle.pdb

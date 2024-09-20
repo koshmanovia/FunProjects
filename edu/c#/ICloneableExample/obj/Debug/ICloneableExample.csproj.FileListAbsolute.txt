@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 8\ICloneableExample\bin\Debug\ICloneableExample.exe.config
+C:\MyProg\VS\projects\Apress\head 8\ICloneableExample\bin\Debug\ICloneableExample.exe
+C:\MyProg\VS\projects\Apress\head 8\ICloneableExample\bin\Debug\ICloneableExample.pdb
+C:\MyProg\VS\projects\Apress\head 8\ICloneableExample\obj\Debug\ICloneableExample.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 8\ICloneableExample\obj\Debug\ICloneableExample.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 8\ICloneableExample\obj\Debug\ICloneableExample.exe
+C:\MyProg\VS\projects\Apress\head 8\ICloneableExample\obj\Debug\ICloneableExample.pdb

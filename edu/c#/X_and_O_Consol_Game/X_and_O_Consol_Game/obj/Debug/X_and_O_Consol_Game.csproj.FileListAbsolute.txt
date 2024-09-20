@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\bin\Debug\X_and_O_Consol_Game.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\bin\Debug\X_and_O_Consol_Game.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\bin\Debug\X_and_O_Consol_Game.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\obj\Debug\X_and_O_Consol_Game.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\obj\Debug\X_and_O_Consol_Game.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\obj\Debug\X_and_O_Consol_Game.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\obj\Debug\X_and_O_Consol_Game.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\X_and_O_Consol_Game\X_and_O_Consol_Game\obj\Debug\X_and_O_Consol_Game.pdb

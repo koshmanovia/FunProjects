@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 6\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 6\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 6\Employees\bin\Debug\Employees.exe.config
+C:\MyProg\VS\projects\Apress\head 6\Employees\bin\Debug\Employees.exe
+C:\MyProg\VS\projects\Apress\head 6\Employees\bin\Debug\Employees.pdb
+C:\MyProg\VS\projects\Apress\head 6\Employees\obj\Debug\Employees.exe
+C:\MyProg\VS\projects\Apress\head 6\Employees\obj\Debug\Employees.pdb

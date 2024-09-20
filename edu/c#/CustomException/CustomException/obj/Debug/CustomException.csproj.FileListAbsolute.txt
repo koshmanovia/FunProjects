@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 7\CustomException\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 7\CustomException\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 7\CustomException\CustomException\bin\Debug\CustomException.exe.config
+C:\MyProg\VS\projects\Apress\head 7\CustomException\CustomException\bin\Debug\CustomException.exe
+C:\MyProg\VS\projects\Apress\head 7\CustomException\CustomException\bin\Debug\CustomException.pdb
+C:\MyProg\VS\projects\Apress\head 7\CustomException\CustomException\obj\Debug\CustomException.exe
+C:\MyProg\VS\projects\Apress\head 7\CustomException\CustomException\obj\Debug\CustomException.pdb

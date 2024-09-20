@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ShildtC#\LambdaEventDemo\bin\Debug\LambdaEventDemo.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\LambdaEventDemo\bin\Debug\LambdaEventDemo.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\LambdaEventDemo\bin\Debug\LambdaEventDemo.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\LambdaEventDemo\obj\Debug\LambdaEventDemo.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\LambdaEventDemo\obj\Debug\LambdaEventDemo.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\LambdaEventDemo\obj\Debug\LambdaEventDemo.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\LambdaEventDemo\obj\Debug\LambdaEventDemo.pdb

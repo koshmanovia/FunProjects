@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 8\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 8\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 8\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+C:\Users\k0shm\source\repos\apress\head 8\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+C:\Users\k0shm\source\repos\apress\head 8\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+C:\Users\k0shm\source\repos\apress\head 8\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+C:\Users\k0shm\source\repos\apress\head 8\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

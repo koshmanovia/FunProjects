@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\MyProg\VS\projects\Apress\head 5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\MyProg\VS\projects\Apress\head 5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\MyProg\VS\projects\Apress\head 5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\MyProg\VS\projects\Apress\head 5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb

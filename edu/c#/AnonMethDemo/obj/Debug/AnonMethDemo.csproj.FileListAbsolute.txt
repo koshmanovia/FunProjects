@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ShildtC#\AnonMethDemo\bin\Debug\AnonMethDemo.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\AnonMethDemo\bin\Debug\AnonMethDemo.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\AnonMethDemo\bin\Debug\AnonMethDemo.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\AnonMethDemo\obj\Debug\AnonMethDemo.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\AnonMethDemo\obj\Debug\AnonMethDemo.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\AnonMethDemo\obj\Debug\AnonMethDemo.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\AnonMethDemo\obj\Debug\AnonMethDemo.pdb

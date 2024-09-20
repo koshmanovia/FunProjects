@@ -1,0 +1,14 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 13\SimpleGC\bin\Debug\SimpleGC.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 13\SimpleGC\bin\Debug\SimpleGC.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 13\SimpleGC\bin\Debug\SimpleGC.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleGC\bin\Debug\SimpleGC.exe.config
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleGC\bin\Debug\SimpleGC.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleGC\bin\Debug\SimpleGC.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 13\SimpleGC\obj\Debug\SimpleGC.pdb

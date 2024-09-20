@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 4\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+C:\Users\k0shm\source\repos\apress\head 4\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+C:\Users\k0shm\source\repos\apress\head 4\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+C:\Users\k0shm\source\repos\apress\head 4\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 4\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 4\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+C:\Users\k0shm\source\repos\apress\head 4\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb

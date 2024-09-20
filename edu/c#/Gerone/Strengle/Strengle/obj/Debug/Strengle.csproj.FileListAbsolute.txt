@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\bin\Debug\Strengle.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\bin\Debug\Strengle.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\bin\Debug\Strengle.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\obj\Debug\Strengle.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\obj\Debug\Strengle.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\obj\Debug\Strengle.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\obj\Debug\Strengle.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Gerone\Strengle\Strengle\obj\Debug\Strengle.pdb

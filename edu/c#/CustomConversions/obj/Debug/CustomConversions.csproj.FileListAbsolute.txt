@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 11\CustomConversions\bin\Debug\CustomConversions.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 11\CustomConversions\bin\Debug\CustomConversions.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\CustomConversions\bin\Debug\CustomConversions.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 11\CustomConversions\obj\Debug\CustomConversions.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\CustomConversions\obj\Debug\CustomConversions.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 11\CustomConversions\obj\Debug\CustomConversions.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 11\CustomConversions\obj\Debug\CustomConversions.pdb

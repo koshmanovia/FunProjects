@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 10\CarEventsArgs\CarEventArgs\bin\Debug\CarEventArgs.exe.config
+C:\MyProg\VS\projects\Apress\head 10\CarEventsArgs\CarEventArgs\bin\Debug\CarEventArgs.exe
+C:\MyProg\VS\projects\Apress\head 10\CarEventsArgs\CarEventArgs\bin\Debug\CarEventArgs.pdb
+C:\MyProg\VS\projects\Apress\head 10\CarEventsArgs\CarEventArgs\obj\Debug\CarEventsArgs.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 10\CarEventsArgs\CarEventArgs\obj\Debug\CarEventsArgs.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 10\CarEventsArgs\CarEventArgs\obj\Debug\CarEventArgs.exe
+C:\MyProg\VS\projects\Apress\head 10\CarEventsArgs\CarEventArgs\obj\Debug\CarEventArgs.pdb

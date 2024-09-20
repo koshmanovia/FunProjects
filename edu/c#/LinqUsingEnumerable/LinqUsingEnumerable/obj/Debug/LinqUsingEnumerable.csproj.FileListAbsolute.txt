@@ -1,0 +1,14 @@
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb

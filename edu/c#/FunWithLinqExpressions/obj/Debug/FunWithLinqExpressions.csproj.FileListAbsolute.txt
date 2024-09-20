@@ -1,0 +1,14 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb

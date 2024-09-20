@@ -1,0 +1,6 @@
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo4\obj\Debug\EventDemo4.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo4\bin\Debug\EventDemo4.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo4\bin\Debug\EventDemo4.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo4\bin\Debug\EventDemo4.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo4\obj\Debug\EventDemo4.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\EventDemo4\obj\Debug\EventDemo4.pdb

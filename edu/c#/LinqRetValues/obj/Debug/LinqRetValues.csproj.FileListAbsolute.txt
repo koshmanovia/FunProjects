@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqRetValues\bin\Debug\LinqRetValues.exe.config
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqRetValues\bin\Debug\LinqRetValues.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqRetValues\bin\Debug\LinqRetValues.pdb
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqRetValues\obj\Debug\LinqRetValues.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqRetValues\obj\Debug\LinqRetValues.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqRetValues\obj\Debug\LinqRetValues.exe
+C:\MyProg\VS\projects\Apress\ProC#\head 12\LinqRetValues\obj\Debug\LinqRetValues.pdb

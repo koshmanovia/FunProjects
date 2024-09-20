@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\Users\k0shm\source\repos\apress\ProC#\head 12\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.pdb

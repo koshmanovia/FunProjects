@@ -1,0 +1,14 @@
+C:\Users\k0shm\source\repos\apress\head 9\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\FunWithGenericCollection.exe.config
+C:\Users\k0shm\source\repos\apress\head 9\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\FunWithGenericCollection.exe
+C:\Users\k0shm\source\repos\apress\head 9\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\FunWithGenericCollection.pdb
+C:\Users\k0shm\source\repos\apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.exe
+C:\Users\k0shm\source\repos\apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.pdb
+C:\MyProg\VS\projects\Apress\head 9\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\FunWithGenericCollection.exe.config
+C:\MyProg\VS\projects\Apress\head 9\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\FunWithGenericCollection.exe
+C:\MyProg\VS\projects\Apress\head 9\FunWithGenericCollection\FunWithGenericCollection\bin\Debug\FunWithGenericCollection.pdb
+C:\MyProg\VS\projects\Apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.exe
+C:\MyProg\VS\projects\Apress\head 9\FunWithGenericCollection\FunWithGenericCollection\obj\Debug\FunWithGenericCollection.pdb

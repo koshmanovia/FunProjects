@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ShildtC#\VarCapture\bin\Debug\VarCapture.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\VarCapture\bin\Debug\VarCapture.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\VarCapture\bin\Debug\VarCapture.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\VarCapture\obj\Debug\VarCapture.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\VarCapture\obj\Debug\VarCapture.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\VarCapture\obj\Debug\VarCapture.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\VarCapture\obj\Debug\VarCapture.pdb

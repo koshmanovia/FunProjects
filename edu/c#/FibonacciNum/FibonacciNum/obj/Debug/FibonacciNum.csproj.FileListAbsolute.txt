@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\bin\Debug\FibonacciNum.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\bin\Debug\FibonacciNum.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\bin\Debug\FibonacciNum.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\obj\Debug\FibonacciNum.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\obj\Debug\FibonacciNum.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\obj\Debug\FibonacciNum.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\obj\Debug\FibonacciNum.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\FibonacciNum\FibonacciNum\obj\Debug\FibonacciNum.pdb

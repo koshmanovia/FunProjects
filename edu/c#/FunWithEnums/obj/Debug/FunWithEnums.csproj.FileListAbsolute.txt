@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 4\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+C:\MyProg\VS\projects\Apress\head 4\FunWithEnums\bin\Debug\FunWithEnums.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithEnums\bin\Debug\FunWithEnums.pdb
+C:\MyProg\VS\projects\Apress\head 4\FunWithEnums\obj\Debug\FunWithEnums.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithEnums\obj\Debug\FunWithEnums.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithEnums\obj\Debug\FunWithEnums.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithEnums\obj\Debug\FunWithEnums.pdb

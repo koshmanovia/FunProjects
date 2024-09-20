@@ -1,0 +1,14 @@
+C:\Users\k0shm\source\repos\apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\bin\Debug\SimpleLamdaExpressions.exe.config
+C:\Users\k0shm\source\repos\apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\bin\Debug\SimpleLamdaExpressions.exe
+C:\Users\k0shm\source\repos\apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\bin\Debug\SimpleLamdaExpressions.pdb
+C:\Users\k0shm\source\repos\apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.exe
+C:\Users\k0shm\source\repos\apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.pdb
+C:\MyProg\VS\projects\Apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\bin\Debug\SimpleLamdaExpressions.exe.config
+C:\MyProg\VS\projects\Apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\bin\Debug\SimpleLamdaExpressions.exe
+C:\MyProg\VS\projects\Apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\bin\Debug\SimpleLamdaExpressions.pdb
+C:\MyProg\VS\projects\Apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.exe
+C:\MyProg\VS\projects\Apress\head 10\SimpleLamdaExpressions\SimpleLamdaExpressions\obj\Debug\SimpleLamdaExpressions.pdb

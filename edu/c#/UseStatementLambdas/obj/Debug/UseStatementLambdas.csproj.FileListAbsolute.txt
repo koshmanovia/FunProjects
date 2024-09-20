@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\ShildtC#\UseStatementLambdas\obj\Debug\UseStatementLambdas.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\UseStatementLambdas\obj\Debug\UseStatementLambdas.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\ShildtC#\UseStatementLambdas\bin\Debug\UseStatementLambdas.exe.config
+C:\MyProg\VS\projects\Apress\ShildtC#\UseStatementLambdas\bin\Debug\UseStatementLambdas.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\UseStatementLambdas\bin\Debug\UseStatementLambdas.pdb
+C:\MyProg\VS\projects\Apress\ShildtC#\UseStatementLambdas\obj\Debug\UseStatementLambdas.exe
+C:\MyProg\VS\projects\Apress\ShildtC#\UseStatementLambdas\obj\Debug\UseStatementLambdas.pdb

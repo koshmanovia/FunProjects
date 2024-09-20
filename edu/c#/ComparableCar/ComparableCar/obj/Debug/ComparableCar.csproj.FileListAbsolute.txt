@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 8\ComparableCar\ComparableCar\bin\Debug\ComparableCar.exe.config
+C:\Users\k0shm\source\repos\apress\head 8\ComparableCar\ComparableCar\bin\Debug\ComparableCar.exe
+C:\Users\k0shm\source\repos\apress\head 8\ComparableCar\ComparableCar\bin\Debug\ComparableCar.pdb
+C:\Users\k0shm\source\repos\apress\head 8\ComparableCar\ComparableCar\obj\Debug\ComparableCar.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 8\ComparableCar\ComparableCar\obj\Debug\ComparableCar.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 8\ComparableCar\ComparableCar\obj\Debug\ComparableCar.exe
+C:\Users\k0shm\source\repos\apress\head 8\ComparableCar\ComparableCar\obj\Debug\ComparableCar.pdb

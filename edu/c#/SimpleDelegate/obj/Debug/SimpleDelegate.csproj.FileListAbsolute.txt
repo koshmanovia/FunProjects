@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 10\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\MyProg\VS\projects\Apress\head 10\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\MyProg\VS\projects\Apress\head 10\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\MyProg\VS\projects\Apress\head 10\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 10\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 10\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\MyProg\VS\projects\Apress\head 10\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

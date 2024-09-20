@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 4\FunWithTuples\bin\Debug\FunWithTuples.exe.config
+C:\MyProg\VS\projects\Apress\head 4\FunWithTuples\bin\Debug\FunWithTuples.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithTuples\bin\Debug\FunWithTuples.pdb
+C:\MyProg\VS\projects\Apress\head 4\FunWithTuples\obj\Debug\FunWithTuples.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithTuples\obj\Debug\FunWithTuples.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 4\FunWithTuples\obj\Debug\FunWithTuples.exe
+C:\MyProg\VS\projects\Apress\head 4\FunWithTuples\obj\Debug\FunWithTuples.pdb

@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 8\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+C:\Users\k0shm\source\repos\apress\head 8\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe
+C:\Users\k0shm\source\repos\apress\head 8\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.pdb
+C:\Users\k0shm\source\repos\apress\head 8\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 8\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 8\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.exe
+C:\Users\k0shm\source\repos\apress\head 8\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.pdb

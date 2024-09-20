@@ -1,0 +1,8 @@
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\bin\Debug\Roman to Arabic.exe.config
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\bin\Debug\Roman to Arabic.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\bin\Debug\Roman to Arabic.pdb
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.csproj.SuggestedBindingRedirects.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.exe
+C:\MyProg\VS\projects\Apress\udemy\c#\Roman to Arabic\Roman to Arabic\obj\Debug\Roman to Arabic.pdb

@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

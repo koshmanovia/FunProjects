@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceHeerarchy\InterfaceHeerarchy\bin\Debug\InterfaceHeerarchy.exe.config
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceHeerarchy\InterfaceHeerarchy\bin\Debug\InterfaceHeerarchy.exe
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceHeerarchy\InterfaceHeerarchy\bin\Debug\InterfaceHeerarchy.pdb
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceHeerarchy\InterfaceHeerarchy\obj\Debug\InterfaceHeerarchy.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceHeerarchy\InterfaceHeerarchy\obj\Debug\InterfaceHeerarchy.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceHeerarchy\InterfaceHeerarchy\obj\Debug\InterfaceHeerarchy.exe
+C:\Users\k0shm\source\repos\apress\head 8\InterfaceHeerarchy\InterfaceHeerarchy\obj\Debug\InterfaceHeerarchy.pdb

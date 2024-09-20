@@ -1,0 +1,7 @@
+C:\MyProg\VS\projects\Apress\head 3\TypeConversions\bin\Debug\TypeConversions.exe.config
+C:\MyProg\VS\projects\Apress\head 3\TypeConversions\bin\Debug\TypeConversions.exe
+C:\MyProg\VS\projects\Apress\head 3\TypeConversions\bin\Debug\TypeConversions.pdb
+C:\MyProg\VS\projects\Apress\head 3\TypeConversions\obj\Debug\TypeConversions.csprojAssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 3\TypeConversions\obj\Debug\TypeConversions.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 3\TypeConversions\obj\Debug\TypeConversions.exe
+C:\MyProg\VS\projects\Apress\head 3\TypeConversions\obj\Debug\TypeConversions.pdb

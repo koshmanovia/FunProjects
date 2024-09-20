@@ -1,0 +1,7 @@
+C:\Users\k0shm\source\repos\apress\head 10\CarEvents\bin\Debug\CarEvent.exe.config
+C:\Users\k0shm\source\repos\apress\head 10\CarEvents\bin\Debug\CarEvent.exe
+C:\Users\k0shm\source\repos\apress\head 10\CarEvents\bin\Debug\CarEvent.pdb
+C:\Users\k0shm\source\repos\apress\head 10\CarEvents\obj\Debug\CarEvent.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 10\CarEvents\obj\Debug\CarEvent.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 10\CarEvents\obj\Debug\CarEvent.exe
+C:\Users\k0shm\source\repos\apress\head 10\CarEvents\obj\Debug\CarEvent.pdb

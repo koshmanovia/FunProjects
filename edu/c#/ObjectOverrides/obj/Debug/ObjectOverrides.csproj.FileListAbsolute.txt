@@ -1,0 +1,14 @@
+C:\MyProg\VS\projects\Apress\head 6\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+C:\MyProg\VS\projects\Apress\head 6\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+C:\MyProg\VS\projects\Apress\head 6\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+C:\MyProg\VS\projects\Apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.AssemblyReference.cache
+C:\MyProg\VS\projects\Apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\MyProg\VS\projects\Apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+C:\MyProg\VS\projects\Apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.pdb
+C:\Users\k0shm\source\repos\apress\head 6\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+C:\Users\k0shm\source\repos\apress\head 6\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+C:\Users\k0shm\source\repos\apress\head 6\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+C:\Users\k0shm\source\repos\apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.AssemblyReference.cache
+C:\Users\k0shm\source\repos\apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Users\k0shm\source\repos\apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+C:\Users\k0shm\source\repos\apress\head 6\ObjectOverrides\obj\Debug\ObjectOverrides.pdb

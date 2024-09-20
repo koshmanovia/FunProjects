@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaEventDemo", "LambdaEventDemo.csproj", "{11A43F9E-DC06-46B3-968A-CF63C130E9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A43F9E-DC06-46B3-968A-CF63C130E9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A43F9E-DC06-46B3-968A-CF63C130E9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A43F9E-DC06-46B3-968A-CF63C130E9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A43F9E-DC06-46B3-968A-CF63C130E9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7920D4FB-93B4-4CC1-B77D-DF47E7B2FEC3}
+	EndGlobalSection
+EndGlobal
