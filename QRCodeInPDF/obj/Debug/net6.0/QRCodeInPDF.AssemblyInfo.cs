@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QRCodeInPDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e044007608d4546c6534151c6c5eb9ed39a8dcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba3d086b8a45d8165d022637eb7e0efeabae27f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("QRCodeInPDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QRCodeInPDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
