@@ -97,7 +97,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string url = "https://example.com"; // URL для QR-кода
+        string url = "https://github.com/koshmanovia/FunProjects/tree/main/QRCodeInPDF"; // URL для QR-кода
         string outputFilePath = "QRCodeWithInfo.pdf"; // Путь к результату
         string iconPath = "icon.png"; // Путь к иконке
         string companyName = "Example Company"; // Имя компании
@@ -153,8 +153,8 @@ class Program
                 iText.Layout.Element.Image pdfImage = new iText.Layout.Element.Image(
                     ImageDataFactory.Create(ms.ToArray())
                 ).SetHorizontalAlignment(iText.Layout.Properties.HorizontalAlignment.CENTER)
-                 .SetMaxHeight(600)
-                 .SetMaxWidth(600);
+                 .SetMaxHeight(550)
+                 .SetMaxWidth(550);
 
                 document.Add(pdfImage);
             }
